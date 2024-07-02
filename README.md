@@ -1,7 +1,6 @@
 ## Hi there,I'm Gonca 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning Java,Spring Boot,PostgreSQL,Swing
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 # Social Media Accounts
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonca-comak/)
-
+  ![GitHub Profilim](https://media.giphy.com/media/VDBURjiPHZoGQ/giphy.gif)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonciii)
 
 
