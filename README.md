@@ -6,11 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning Java,Spring Boot,PostgreSQL,Swing
 - 👯 I’m looking to collaborate with other content creators
-- 📫 How to reach me:  goncagulcomak@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonca-comak/)
-
-[![E-posta](https://img.shields.io/badge/-E--posta-red?style=flat-square&logo=gmail)](goncagulcomak@gmail.com)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonca-comak/) [![E-posta](https://img.shields.io/badge/-E--posta-red?style=flat-square&logo=gmail)](goncagulcomak@gmail.com)
 
 
 
