@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me:  goncagulcomak@gmail.com
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonca-comak/)
+
+
 
 
 
