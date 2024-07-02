@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonca-comak/)
 
+[![E-posta](https://img.shields.io/badge/-E--posta-red?style=flat-square&logo=gmail)](goncagulcomak@gmail.com)
+
+
 
 
 
