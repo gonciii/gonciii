@@ -1,4 +1,4 @@
-                                         # Hi there,I'm Gonca 👋
+  # Hi there,I'm Gonca 👋
 
 
 
